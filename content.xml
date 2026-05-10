@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510164201DN5596</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605101642011L9PRS</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Eco- latidos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Desarrollo sostenible y  emocional</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>CARMEN MARÍA GÓMEZ CARO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este espacio interactivo sirve para centralizar y compartir todas las tareas y recursos del proyecto sobre consumo responsable, desarrollo sostenible/ reciclaje, así como la gestión emocional.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778424050417</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mozvr77r-134gp37lz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 2.1: Emociones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.1: Emociones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.1: Emociones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 2.1: Emociones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozvr77r-134gp37lz</odePageId>
+      <odeBlockId>block-1778340551976-ib2v18uil</odeBlockId>
+      <blockName>LAS EMOCIONES: Eco- latidos</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozvr77r-134gp37lz</odePageId>
+          <odeBlockId>block-1778340551976-ib2v18uil</odeBlockId>
+          <odeIdeviceId>idevice-1778340551970-5311mjf13</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Eco-Latidos es una propuesta pedagógica interdisciplinar dirigida a alumnos de 6.º de Educación Primaria. El proyecto se desarrolla a lo largo de 22 sesiones y vincula áreas clave como Conocimiento del Medio, Lengua, TIC y aprendizaje emocional.</p>
+<p> El objetivo principal es fomentar el consumo responsable y la sostenibilidad a través de la inteligencia emocional. El alumnado aprenderá a:</p>
+<p> -Gestionar emociones: Identificar los estados internos que impulsan hábitos de compra impulsivos. </p>
+<p>-Conciencia ambiental: Comprender el impacto de sus acciones en el entorno, promoviendo el reciclaje y la economía circular.</p>
+<p> -Bienestar Integral: Relacionar la salud mental y el desarrollo social con el cuidado de un medio ambiente limpio.</p>
+<p> <br />El aprendizaje se basa en una metodología cooperativa , donde la evaluación se realiza de forma continua mediante rúbricas para cada producto parcial y final.</p>
+<p><a href="https://canva.link/20wg9aapcswi2n8" title="LAS EMOCIONES: Eco-Latidos" rel="author">https://canva.link/20wg9aapcswi2n8</a><a href="https://canva.link/20wg9aapcswi2n8" title="LAS EMOCIONES: Eco-Latidos" rel="author">https://canva.link/20wg9aapcswi2n8</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778340551970-5311mjf13","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Eco-Latidos es una propuesta pedagógica interdisciplinar dirigida a alumnos de 6.º de Educación Primaria. El proyecto se desarrolla a lo largo de 22 sesiones y vincula áreas clave como Conocimiento del Medio, Lengua, TIC y aprendizaje emocional.</p>\n<p> El objetivo principal es fomentar el consumo responsable y la sostenibilidad a través de la inteligencia emocional. El alumnado aprenderá a:</p>\n<p> -Gestionar emociones: Identificar los estados internos que impulsan hábitos de compra impulsivos. </p>\n<p>-Conciencia ambiental: Comprender el impacto de sus acciones en el entorno, promoviendo el reciclaje y la economía circular.</p>\n<p> -Bienestar Integral: Relacionar la salud mental y el desarrollo social con el cuidado de un medio ambiente limpio.</p>\n<p> <br />El aprendizaje se basa en una metodología cooperativa , donde la evaluación se realiza de forma continua mediante rúbricas para cada producto parcial y final.</p>\n<p><a href=\"https://canva.link/20wg9aapcswi2n8\" title=\"LAS EMOCIONES: Eco-Latidos\" rel=\"author\">https://canva.link/20wg9aapcswi2n8</a><a href=\"https://canva.link/20wg9aapcswi2n8\" title=\"LAS EMOCIONES: Eco-Latidos\" rel=\"author\">https://canva.link/20wg9aapcswi2n8</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozvr77y-hkuxqlwvn</odePageId>
+  <odeParentPageId>page-mozvr77r-134gp37lz</odeParentPageId>
+  <pageName>Tarea 2.3: Seguridad Digital</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.3: Seguridad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.3: Seguridad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 2.3: Seguridad Digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozvr77y-hkuxqlwvn</odePageId>
+      <odeBlockId>block-1778342155440-996kl157t</odeBlockId>
+      <blockName>INFOGRAFÍA</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozvr77y-hkuxqlwvn</odePageId>
+          <odeBlockId>block-1778342155440-996kl157t</odeBlockId>
+          <odeIdeviceId>idevice-1778342155436-3usn96a8t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title="">Esta guía resume las pautas claves para una navegación segura y el respeto a la autoridad. En cuanto a la seguridad digital, destaca la protección de la privacidad y contraseñas, la precaución ante perfiles desconocidos, el mantenimiento de un comportamiento respetuoso y la importancia de pedir ayuda a adultos ante situaciones de riesgo. Respecto a los derechos de autor, diferencia entre el Copyright (todos los derechos reservados), el Copyleft (permite uso citando autoría) y las licencias Creative Commons, detallando sus combinaciones según se permita o no el uso comercial, la modificación de la obra o la obligación de compartir bajo la misma licencia.</span></span></span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title=""><a href="https://www.canva.com/design/DAHHrgbpK4k/df8gqlBDxJyg_-ReYtKXtg/edit">https://www.canva.com/design/DAHHrgbpK4k/df8gqlBDxJyg_-ReYtKXtg/edit</a></span></span></span></span><img src="{{context_path}}/content/resources/SEGURIDAD DIGITAL.zip" title="SEGURIDAD DIGITAL" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778342155436-3usn96a8t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"\">Esta guía resume las pautas claves para una navegación segura y el respeto a la autoridad. En cuanto a la seguridad digital, destaca la protección de la privacidad y contraseñas, la precaución ante perfiles desconocidos, el mantenimiento de un comportamiento respetuoso y la importancia de pedir ayuda a adultos ante situaciones de riesgo. Respecto a los derechos de autor, diferencia entre el Copyright (todos los derechos reservados), el Copyleft (permite uso citando autoría) y las licencias Creative Commons, detallando sus combinaciones según se permita o no el uso comercial, la modificación de la obra o la obligación de compartir bajo la misma licencia.</span></span></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"\"><a href=\"https://www.canva.com/design/DAHHrgbpK4k/df8gqlBDxJyg_-ReYtKXtg/edit\">https://www.canva.com/design/DAHHrgbpK4k/df8gqlBDxJyg_-ReYtKXtg/edit</a></span></span></span></span><img src=\"{{context_path}}/content/resources/SEGURIDAD DIGITAL.zip\" title=\"SEGURIDAD DIGITAL\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozvr77y-hkuxqlwvn</odePageId>
+      <odeBlockId>block-1778401427339-aa6qz337b</odeBlockId>
+      <blockName>INFOGRAFÍA</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozvr77y-hkuxqlwvn</odePageId>
+          <odeBlockId>block-1778401427339-aa6qz337b</odeBlockId>
+          <odeIdeviceId>idevice-1778401427335-j8m8ziu3r</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778401427335-j8m8ziu3r" title="" href="{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778401427335-j8m8ziu3r","img_0":{"img":"{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris.png","thumbnail":"{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozvr782-wl5oxfnax</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 4.1: Eco-latidos: emociones y consumo responsable en Canva</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4.1: Eco-latidos: emociones y consumo responsable en Canva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4.1: Eco-latidos: emociones y consumo responsable en Canva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 4.1: Eco-latidos: emociones y consumo responsable en Canva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozvr782-wl5oxfnax</odePageId>
+      <odeBlockId>block-1778343074419-8juv9cpwk</odeBlockId>
+      <blockName>Ideas y herramientas</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozvr782-wl5oxfnax</odePageId>
+          <odeBlockId>block-1778343074419-8juv9cpwk</odeBlockId>
+          <odeIdeviceId>idevice-1778343074417-o9w85gwf7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado diseñará en canva materiales visuales (infografías o pósteres) que integren la gestión emocional con el reciclaje y el consumo responsable. Se busca crear contenidos motivadores y atractivos que fomenten la conciencia ambiental mediante el uso de herramientas digitales intuitivas y el trabajo colaborativo.</p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778343074417-o9w85gwf7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado diseñará en canva materiales visuales (infografías o pósteres) que integren la gestión emocional con el reciclaje y el consumo responsable. Se busca crear contenidos motivadores y atractivos que fomenten la conciencia ambiental mediante el uso de herramientas digitales intuitivas y el trabajo colaborativo.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozvr786-0e8uai9kj</odePageId>
+  <odeParentPageId>page-mozvr782-wl5oxfnax</odeParentPageId>
+  <pageName>Tarea 5.1: Padlet y Symbaloo</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5.1: Padlet y Symbaloo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5.1: Padlet y Symbaloo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 5.1: Padlet y Symbaloo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozvr786-0e8uai9kj</odePageId>
+      <odeBlockId>block-1778343636100-khheo73zp</odeBlockId>
+      <blockName>HERRAMIENTAS</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozvr786-0e8uai9kj</odePageId>
+          <odeBlockId>block-1778343636100-khheo73zp</odeBlockId>
+          <odeIdeviceId>idevice-1778343636097-6e4id1h2d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">El alumno utilizará este espacio en </span></span><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Padlet</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> como un repositorio centralizado para el proyecto y </span></span><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Symbaloo.</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> La actividad consiste en:</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- Organización de herramientas: acceder y clasificar recursos digitales esenciales como Canva, Symbaloo y buscadores específicos. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- Investigación Cooperativa: compartir enlaces sobre sostenibilidad, consumo responsable y reciclaje para enriquecer el trabajo grupal.</span></span><br /><br /></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">PADLET:</span></span></strong></p>
+<p><a href="https://padlet.com/carmenmgc19/eco-latidos-x8vq6wx0x084baaz" title=""><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://padlet.com/carmenmgc19/eco-latidos-x8vq6wx0x084baaz</span></span></a></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">SYMBALOO:</span></span></strong></p>
+<p><a href="https://www.symbaloo.com/shared/AAAAA-JwzLwAA41_W3Oe3g==" title=""><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://www.symbaloo.com/shared/AAAAA-JwzLwAA41_W3Oe3g==</span></span></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778343636097-6e4id1h2d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">El alumno utilizará este espacio en </span></span><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Padlet</span></span></strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> como un repositorio centralizado para el proyecto y </span></span><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Symbaloo.</span></span></strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> La actividad consiste en:</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- Organización de herramientas: acceder y clasificar recursos digitales esenciales como Canva, Symbaloo y buscadores específicos. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- Investigación Cooperativa: compartir enlaces sobre sostenibilidad, consumo responsable y reciclaje para enriquecer el trabajo grupal.</span></span><br /><br /></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">PADLET:</span></span></strong></p>\n<p><a href=\"https://padlet.com/carmenmgc19/eco-latidos-x8vq6wx0x084baaz\" title=\"\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://padlet.com/carmenmgc19/eco-latidos-x8vq6wx0x084baaz</span></span></a></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">SYMBALOO:</span></span></strong></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA-JwzLwAA41_W3Oe3g==\" title=\"\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://www.symbaloo.com/shared/AAAAA-JwzLwAA41_W3Oe3g==</span></span></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozvr788-tu04n9m1n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 6.1:  Guía didáctica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6.1:  Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6.1:  Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 6.1:  Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozvr788-tu04n9m1n</odePageId>
+      <odeBlockId>block-1778401310683-o1bn3r2i1</odeBlockId>
+      <blockName>TAREAS Y CRITERIOS</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozvr788-tu04n9m1n</odePageId>
+          <odeBlockId>block-1778401310683-o1bn3r2i1</odeBlockId>
+          <odeIdeviceId>idevice-1778401310682-xypgpd5zx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En esta actividad se describe cómo cada acción del proyecto "Eco-latidos" se asocia cada tarea a un criterio de evaluación y a una herramienta digital específica para el alumno de primaria. Por ello se podrá observar:</span></span></span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- Criterio de evaluación como la capacidad para identificar conductas de consumo responsable y reciclaje, mostrando una actitud de respeto hacia el entorno, así como el reconocimiento de las emociones que influyen en las decisiones de compra y adopción de una actitud crítica. </span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">-Herramientas a utilizar en cada tarea: Padlet, Canva...</span></span></span></span><br /></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Enlace asociación de criterios a cada tarea diseñada:</span></span></span></span></p>
+<p><a href="https://docs.google.com/document/d/1gGrVmmP95HESG0DM-v6Pk4LUzeg97xHpp8N0-ZB2iUA/edit?usp=sharing" title=""><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://docs.google.com/document/d/1gGrVmmP95HESG0DM-v6Pk4LUzeg97xHpp8N0-ZB2iUA/edit?usp=sharing</span></span></span></span></a></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778401310682-xypgpd5zx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">En esta actividad se describe cómo cada acción del proyecto \"Eco-latidos\" se asocia cada tarea a un criterio de evaluación y a una herramienta digital específica para el alumno de primaria. Por ello se podrá observar:</span></span></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- Criterio de evaluación como la capacidad para identificar conductas de consumo responsable y reciclaje, mostrando una actitud de respeto hacia el entorno, así como el reconocimiento de las emociones que influyen en las decisiones de compra y adopción de una actitud crítica. </span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">-Herramientas a utilizar en cada tarea: Padlet, Canva...</span></span></span></span><br /></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Enlace asociación de criterios a cada tarea diseñada:</span></span></span></span></p>\n<p><a href=\"https://docs.google.com/document/d/1gGrVmmP95HESG0DM-v6Pk4LUzeg97xHpp8N0-ZB2iUA/edit?usp=sharing\" title=\"\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://docs.google.com/document/d/1gGrVmmP95HESG0DM-v6Pk4LUzeg97xHpp8N0-ZB2iUA/edit?usp=sharing</span></span></span></span></a></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozvr78a-5qf8sz17c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 7.1: Línea temporal</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 7.1: Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 7.1: Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 7.1: Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozvr78a-5qf8sz17c</odePageId>
+      <odeBlockId>block-1778402603926-7zk2qyuzi</odeBlockId>
+      <blockName>Línea temporal en Canva</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozvr78a-5qf8sz17c</odePageId>
+          <odeBlockId>block-1778402603926-7zk2qyuzi</odeBlockId>
+          <odeIdeviceId>idevice-1778402603923-phg6ximri</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta actividad propone un itinerario de aprendizaje de cada tarea propuesta en la actividad 6.1,  para que el alumnado desarrolle conciencia ambiental a través de la gestión emocional y el uso de herramientas digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778402603923-phg6ximri","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta actividad propone un itinerario de aprendizaje de cada tarea propuesta en la actividad 6.1,  para que el alumnado desarrolle conciencia ambiental a través de la gestión emocional y el uso de herramientas digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozvr78a-5qf8sz17c</odePageId>
+      <odeBlockId>block-1778402742273-rd8f9l57d</odeBlockId>
+      <blockName></blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozvr78a-5qf8sz17c</odePageId>
+          <odeBlockId>block-1778402742273-rd8f9l57d</odeBlockId>
+          <odeIdeviceId>idevice-1778402742268-pgvuf7wxu</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778402742268-pgvuf7wxu" title="" href="{{context_path}}/content/resources/línea temportal tareas.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/línea temportal tareas.png" height="128" width="128" title="" alt="" titlelink="" author="Imagen propia" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778402742268-pgvuf7wxu","img_0":{"img":"{{context_path}}/content/resources/línea temportal tareas.png","thumbnail":"{{context_path}}/content/resources/línea temportal tareas.png","title":"","linktitle":"","author":"Imagen propia","linkauthor":"","license":"Todos los derechos reservados"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozvr78d-ttc7momk9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 8.1: Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 8.1: Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 8.1: Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 8.1: Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozvr78d-ttc7momk9</odePageId>
+      <odeBlockId>block-1778402895955-02ymg4vkz</odeBlockId>
+      <blockName>INSTRUMENTOS DE EVALAUCIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozvr78d-ttc7momk9</odePageId>
+          <odeBlockId>block-1778402895955-02ymg4vkz</odeBlockId>
+          <odeIdeviceId>idevice-1778402895953-rfbqzxi96</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En esta actividad se mostrarán los dos instrumentos elegidos para la evaluación de este proyecto, como son la lista de cotejo y rúbrica.</span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778402895953-rfbqzxi96","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">En esta actividad se mostrarán los dos instrumentos elegidos para la evaluación de este proyecto, como son la lista de cotejo y rúbrica.</span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozvr78d-ttc7momk9</odePageId>
+      <odeBlockId>block-1778403162584-x14zip6vy</odeBlockId>
+      <blockName></blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozvr78d-ttc7momk9</odePageId>
+          <odeBlockId>block-1778403162584-x14zip6vy</odeBlockId>
+          <odeIdeviceId>idevice-1778403162570-z47fxkgrd</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778403162570-z47fxkgrd" title="" href="{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="Imagen propia" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778403162570-z47fxkgrd" title="" href="{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0002.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0002.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1778403162570-z47fxkgrd" title="" href="{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0003.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0003.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1778403162570-z47fxkgrd" title="" href="{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0004.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0004.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778403162570-z47fxkgrd","img_0":{"img":"{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0001.jpg","title":"","linktitle":"","author":"Imagen propia","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0002.jpg","thumbnail":"{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0002.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0003.jpg","thumbnail":"{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0003.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0004.jpg","thumbnail":"{{context_path}}/content/resources/RÚBRICA Y LISTA DE COTEJO_page-0004.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozvr78g-wj616bpf4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>AUTORÍA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTORÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTORÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozvr78g-wj616bpf4</odePageId>
+      <odeBlockId>block-1778404697038-cuup1330i</odeBlockId>
+      <blockName>AUTORÍA</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozvr78g-wj616bpf4</odePageId>
+          <odeBlockId>block-1778404697038-cuup1330i</odeBlockId>
+          <odeIdeviceId>idevice-1778404697032-lvuww4ndg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">1. Autoría y propiedad</span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Autora: Carmen María Gómez Caro </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Proyecto: Eco-latidos: emociones, sostenibilidad y Consumo responsable. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Contexto: Situación de aprendizaje diseñada para el alumno de Educación Primaria.</span></span></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">2. Descripción del recurso</span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> "Eco-Latidos" es una unidad didáctica integrada que utiliza el aprendizaje basado en proyectos (ABP) para concienciar sobre el desarrollo sostenible y el consumo responsable. El destaca por su enfoque en la inteligencia emocional, ayudando al alumno a identificar las actitudes y sentimientos que motivan sus hábitos de consumo y reciclaje a través de un ecosistema de herramientas digitales colaborativas.</span></span></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">3. Licencia de uso </span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Este material educativo se publica bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Enlace eXelearning:</span></span></p>
+<p><a href="https://online.exelearning.net/"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://online.exelearning.net/</span></span></a></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778404697032-lvuww4ndg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">1. Autoría y propiedad</span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Autora: Carmen María Gómez Caro </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Proyecto: Eco-latidos: emociones, sostenibilidad y Consumo responsable. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Contexto: Situación de aprendizaje diseñada para el alumno de Educación Primaria.</span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2. Descripción del recurso</span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> \"Eco-Latidos\" es una unidad didáctica integrada que utiliza el aprendizaje basado en proyectos (ABP) para concienciar sobre el desarrollo sostenible y el consumo responsable. El destaca por su enfoque en la inteligencia emocional, ayudando al alumno a identificar las actitudes y sentimientos que motivan sus hábitos de consumo y reciclaje a través de un ecosistema de herramientas digitales colaborativas.</span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">3. Licencia de uso </span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Este material educativo se publica bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Enlace eXelearning:</span></span></p>\n<p><a href=\"https://online.exelearning.net/\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://online.exelearning.net/</span></span></a></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
